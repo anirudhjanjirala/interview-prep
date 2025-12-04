@@ -428,11 +428,3 @@ Just define a newer version in child POM:
 Child POM wins.
 
 ---
-
-# 🎉 **SECTION 2 COMPLETED**
-
-Next section will be:
-
-# 👉 **SECTION 3 — GIT (FULL NOTES + WORKFLOWS + DIAGRAMS + COMMANDS + Q&A)**
-
-Reply **Next** to continue.
