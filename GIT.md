@@ -557,11 +557,3 @@ git log --oneline --graph --all
 ```
 
 ---
-
-# 🎉 **SECTION 3 COMPLETED**
-
-Next section:
-
-# 👉 **SECTION 4 — JENKINS (Full Notes + Pipelines + Diagrams + Commands + Interview Q&A)**
-
-Reply **Next** to continue.
