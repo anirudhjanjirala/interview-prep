@@ -1,13 +1,4 @@
-# ✅ SECTION 1 — **LINUX COMPLETE NOTES (VERY DETAILED)**
-
-This is **Chapter 1** of your full DevOps handbook.
-
----
-
-# #️⃣ **1. LINUX – FULL NOTES, DIAGRAMS, COMPONENTS, COMMANDS, 50+ COMMANDS WITH OUTPUT, INTERVIEW Q&A**
-
----
-
+# **LINUX COMPLETE NOTES (VERY DETAILED)**
 # 🧠 **1.1 What is Linux? (Simple Explanation)**
 
 Linux is:
